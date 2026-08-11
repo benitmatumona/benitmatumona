@@ -39,7 +39,7 @@ test that out rather than just read about it.
 | [TransactAlert](https://github.com/benitmatumona/transact-alert) | Event-driven fraud detection & alerting — REST + GraphQL over the same domain, JMS-based async processing, TMF-modeled APIs | Java · Spring Boot · JMS · Docker · Kubernetes |
 | NutriMap AI 🥉 | 3rd place, SMU Health Hackathon 2026 — AI-powered public health platform with RAG, guardrails, and confidence scoring (team project) | Python · FastAPI · AI |
 | [SA Banking Transaction ETL Pipeline](https://github.com/benitmatumona/SA-Banking-Transaction-ETL-Pipeline) | End-to-end ETL pipeline with fraud detection, customer segmentation, and revenue analytics | Python · PostgreSQL · Apache Airflow |
-| [Robot-World-Multiplayer-Networked-Game](https://github.com/benitmatumona/Robot-World-Multiplayer-Networked-Game) | TCP/JSON protocol for a shared multiplayer game world — concurrent client handling, command routing | Java |
+| [Robot World Multiplayer Networked-Game](https://github.com/benitmatumona/Robot-World-Multiplayer-Networked-Game) | TCP/JSON protocol for a shared multiplayer game world — concurrent client handling, command routing | Java |
 | [HealthSafe](https://github.com/benitmatumona/HealthSafe) | Enterprise integration service — RESTful APIs, OOP design, distributed-systems patterns | Java |
 | [LogisticsConnect](https://github.com/benitmatumona/LogisticsConnect) | Enterprise integration service — RESTful APIs, OOP design, distributed-systems patterns | Java |
 
