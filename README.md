@@ -1,7 +1,7 @@
 cat > README.md << 'README_EOF'
 <div align="center">
 
-# Benit Polvie Matumona
+# Benit Polvie Matumona`
 
 **Backend & Integration Engineering Student**
 
@@ -28,7 +28,7 @@ $ whoami
 $ cat currently.txt
 ```
 
-- 🎓 Finishing a Software Engineering diploma at WeThinkCode, alongside a BSc in Mathematics & Statistics at UNISA
+- 🎓 Finishing a Software Engineering diploma at WeThinkCode and also studying BSc in Mathematics & Statistics at UNISA
 - 🧑‍🏫 Peer-tutoring core Python, Java OOP, SQL, and TCP/networking fundamentals at WeThinkCode Gauteng
 - 🔍 Currently digging into distributed systems patterns and event-driven architectures
 
