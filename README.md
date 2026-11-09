@@ -106,12 +106,13 @@ Stops invalid banking data before it reaches PostgreSQL by enforcing banking rul
 - 🤖 Working through the **Hugging Face AI Agents Course** and the **DataTalks.Club Machine Learning Zoomcamp**
 - 🔍 Digging into distributed-systems patterns and event-driven architectures
 
-## 📈 GitHub stats
+## 📈 GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=benitmatumona&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benitmatumona&layout=compact&theme=dark&hide_border=true" height="165"/>
+![Followers](https://img.shields.io/github/followers/benitmatumona?style=for-the-badge&logo=github&color=3592C4)
+![GridWar last commit](https://img.shields.io/github/last-commit/benitmatumona/GridWar?style=for-the-badge&logo=github&label=GridWar%20last%20commit&color=3592C4)
+![TransactAlert last commit](https://img.shields.io/github/last-commit/benitmatumona/transact-alert?style=for-the-badge&logo=github&label=TransactAlert%20last%20commit&color=3592C4)
 
 </div>
 
