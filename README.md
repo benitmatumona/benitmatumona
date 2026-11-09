@@ -45,7 +45,7 @@ Real-time multiplayer robot battle server rebuilt in .NET. Async TCP I/O and a s
 </td>
 <td width="50%" valign="top">
 
-**🥉 NutriMap AI** *(private repo, team project)*
+**🥉 [NutriMap AI](https://github.com/benitmatumona/NutriMap-AI)** *(public version with demo video)*
 
 3rd place, SMU Health Hackathon 2026. Ranks foods by nutrition per Rand within a shopper's budget and maps vendors across 12 Tshwane areas. I led the technical build: FastAPI backend, RAG pipeline, guardrails that block medical claims and ungrounded text, 0-100 confidence scoring, and OWASP Top 10 security (PBKDF2, TOTP 2FA, RBAC, rate limiting).
 
@@ -70,26 +70,6 @@ Event-driven fraud alerting. A REST API queues each transaction on JMS and respo
 Stops invalid banking data before it reaches PostgreSQL by enforcing banking rules at validation. Airflow DAG automates validate-then-load, and six business questions (fraud, revenue, dormant accounts, segmentation) are answered with window-function SQL.
 
 `Python` `PostgreSQL` `Apache Airflow` `Docker` `pytest`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 [Robot World Multiplayer Networked Game](https://github.com/benitmatumona/Robot-World-Multiplayer-Networked-Game)**
-
-TCP/JSON protocol for a shared multiplayer world: concurrent client handling, command routing, movement, combat and visibility logic.
-
-`Java` `TCP sockets` `JSON`
-
-</td>
-<td width="50%" valign="top">
-
-**🏥 [HealthSafe](https://github.com/benitmatumona/HealthSafe)** · **🚚 [LogisticsConnect](https://github.com/benitmatumona/LogisticsConnect)**
-
-Enterprise integration services built around RESTful APIs, OOP design and distributed-systems patterns.
-
-`Java`
 
 </td>
 </tr>
