@@ -1,4 +1,3 @@
-cat > README.md << 'README_EOF'
 <div align="center">
 
 # Benit Polvie Matumona`
@@ -142,4 +141,4 @@ Enterprise integration service — RESTful APIs, OOP design, distributed-systems
 📫 **polviedivine@gmail.com**  ·  💼 [LinkedIn](https://www.linkedin.com/in/benit-polvie-matumona/)  ·  🌐 Portfolio *(coming soon)*
 
 </div>
-README_EOF
+
